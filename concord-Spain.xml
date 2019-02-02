@@ -1,0 +1,50 @@
+<ns0:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:contributor>Gerardo E. De Miguel González</dc:contributor>
+  <dc:contributor>Diego Ferreño Blanco</dc:contributor>
+  <dc:contributor>Ignacio Iker Prado Rujas</dc:contributor>
+  <dc:contributor>Estela Ruiz Martínez</dc:contributor>
+  <dc:contributor>Manuel Zamudio López</dc:contributor>
+  <dc:coverage>Europe</dc:coverage>
+  <dc:creator>Cancer Survival Group</dc:creator>
+  <dc:creator>London School of Hygiene &amp; Tropical Medicine</dc:creator>
+  <dc:date>2013</dc:date>
+  <dc:description>CONCORD data, divided into: Continent, Country, Registry, Year and Sex.
+                    CONCORD is the program for global surveillance of cancer survival, 
+                    led by the London School of Hygiene &amp; Tropical Medicine. The CONCORD 
+                    (Global Surveillance of Cancer Survival) program is endorsed by more 
+                    than 40 international agencies, including the OECD (Organization for 
+                    Economic Co-operation and Development) of the WHO (World Health Organization)
+                    and the World Bank.</dc:description>
+  <dc:format>data/csv</dc:format>
+  <dc:identifier>10.5281/zenodo.SPxxxxx</dc:identifier>
+  <dc:identifier>CONCORD-3</dc:identifier>
+  <dc:identifier>CONCORD</dc:identifier>
+  <dc:language>en</dc:language>
+  <dc:publisher>London School of Hygiene &amp; Tropical Medicine</dc:publisher>
+  <dc:relation>https://doi.org/10.1016/S0140-6736(17)33326-3</dc:relation>
+  <dc:relation>CONCORD</dc:relation>
+  <dc:relation>CONCORD-2</dc:relation>
+  <dc:rights>Attribution-NonCommercial-ShareAlike</dc:rights>
+  <dc:source>https://csg.lshtm.ac.uk/life-tables/</dc:source>
+  <dc:subject>cancer</dc:subject>
+  <dc:subject>cancer-surveillance</dc:subject>
+  <dc:subject>concord</dc:subject>
+  <dc:subject>concord-3</dc:subject>
+  <dc:title>CONCORD-3: Global surveillance of cancer survival</dc:title>
+  <dc:type>data</dc:type>
+<dc:Country>Spain</dc:Country>
+  <dc:Registry>Albacete</dc:Registry>
+  <dc:Registry>Asturias</dc:Registry>
+  <dc:Registry>Basque Country</dc:Registry>
+  <dc:Registry>Canaries</dc:Registry>
+  <dc:Registry>Cuenca Spain</dc:Registry>
+  <dc:Registry>Girona</dc:Registry>
+  <dc:Registry>Granada</dc:Registry>
+  <dc:Registry>Mallorca</dc:Registry>
+  <dc:Registry>Murcia</dc:Registry>
+  <dc:Registry>NavarraSpain Childhood</dc:Registry>
+  <dc:Registry>Tarragona</dc:Registry>
+  <dc:Registry>Valencia Childhood</dc:Registry>
+  <dc:Analyzer>scikit-learn</dc:Analyzer>
+  <dc:Analyzer>0.20.2</dc:Analyzer>
+  </ns0:dc>
